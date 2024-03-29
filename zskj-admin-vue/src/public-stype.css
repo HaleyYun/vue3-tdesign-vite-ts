@@ -1,0 +1,64 @@
+.btn-c-blue {
+    cursor: pointer;
+    color: #5766FE;
+}
+
+.m-l {
+    margin-left: 20px;
+}
+
+.search-item-font {
+    font-size: 16px;
+    font-family: PingFangSC-Regular, PingFang SC;
+    font-weight: 400;
+    color: #747584;
+    line-height: 22px;
+}
+
+/* 表格列表里的有多个操作按钮 */
+.action {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+/* 表格列表里的查看详情 */
+.btn-Details {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 76px;
+    height: 26px;
+    background: #f1f6ff;
+    border-radius: 6px;
+    cursor: pointer;
+}
+
+.see-Details {
+    font-size: 12px;
+    font-family: PingFangSC-Regular, PingFang SC;
+    font-weight: 400;
+    color: #3d7eff;
+    line-height: 17px;
+}
+
+/* 表格列表里的编辑 */
+.btn-Edit {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: #ffedd5;
+    border-radius: 6px;
+    width: 52px;
+    height: 26px;
+    margin-right: 8px;
+    cursor: pointer;
+}
+
+.Edit {
+    font-size: 12px;
+    font-family: PingFangSC-Regular, PingFang SC;
+    font-weight: 400;
+    color: #ee8317;
+    line-height: 17px;
+}
