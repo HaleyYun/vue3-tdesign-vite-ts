@@ -4,6 +4,7 @@
       <div class="box-left">
         <img src="../../assets/img/knowledge/outIcon.png" alt="图标" />
         <div class="img-btn" @click="">返回</div>
+
       </div>
     </div>
     <div class="search-box">
